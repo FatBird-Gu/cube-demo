@@ -1,0 +1,48 @@
+  
+  <!-- <image class="songimg"src="http://evo-nav-media.mars-health.xyz/teacher.jpg" /> -->
+
+<body>
+<view class="wrap">
+  <view class="cube">
+    <view class="out_front">
+      <image  class="pic" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1589183715092&di=1c29c295d1993b0024fba051006adf49&imgtype=0&src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F016f7055efce2b6ac7251df89fab36.jpg" />
+    </view>
+    <!--后面图片 -->
+    <view class="out_back">
+      <image src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1589183715092&di=1c29c295d1993b0024fba051006adf49&imgtype=0&src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F016f7055efce2b6ac7251df89fab36.jpg"  class="pic"/>
+    </view>
+    <!--左图片 -->
+    <view class="out_left">
+      <image src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1589183715092&di=1c29c295d1993b0024fba051006adf49&imgtype=0&src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F016f7055efce2b6ac7251df89fab36.jpg"  class="pic"/>
+    </view>
+    <view class="out_right">
+      <image src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1589183715092&di=1c29c295d1993b0024fba051006adf49&imgtype=0&src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F016f7055efce2b6ac7251df89fab36.jpg"  class="pic"/>
+    </view>
+    <view class="out_top">
+      <image src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1589183715092&di=1c29c295d1993b0024fba051006adf49&imgtype=0&src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F016f7055efce2b6ac7251df89fab36.jpg"  class="pic"/>
+    </view>
+    <view class="out_bottom">
+      <image src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1589183715092&di=1c29c295d1993b0024fba051006adf49&imgtype=0&src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F016f7055efce2b6ac7251df89fab36.jpg"  class="pic"/>
+    </view>
+    <!--小正方体 --> 
+    <span class="in_front">
+      <image src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1589183715092&di=1c29c295d1993b0024fba051006adf49&imgtype=0&src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F016f7055efce2b6ac7251df89fab36.jpg" class="in_pic" />
+    </span>
+    <span class="in_back">
+      <image src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1589183715092&di=1c29c295d1993b0024fba051006adf49&imgtype=0&src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F016f7055efce2b6ac7251df89fab36.jpg" class="in_pic" />
+    </span>
+    <span class="in_left">
+      <image src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1589183715092&di=1c29c295d1993b0024fba051006adf49&imgtype=0&src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F016f7055efce2b6ac7251df89fab36.jpg" class="in_pic" />
+    </span>
+    <span class="in_right">
+      <image src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1589183715092&di=1c29c295d1993b0024fba051006adf49&imgtype=0&src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F016f7055efce2b6ac7251df89fab36.jpg" class="in_pic" />
+    </span>
+    <span class="in_top">
+      <image src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1589183715092&di=1c29c295d1993b0024fba051006adf49&imgtype=0&src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F016f7055efce2b6ac7251df89fab36.jpg" class="in_pic" />
+    </span>
+    <span class="in_bottom">
+      <image src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1589183715092&di=1c29c295d1993b0024fba051006adf49&imgtype=0&src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F016f7055efce2b6ac7251df89fab36.jpg" class="in_pic" />
+    </span>
+  </view>
+</view>
+</body>
